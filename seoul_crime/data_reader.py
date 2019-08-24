@@ -39,5 +39,5 @@ class DataReader:
         file = self.new_file()
         return json.load(open(file, encoding = 'UTF-8'))
 
-    def create_gmap(self):
+    def create_gmaps(self):
         return googlemaps.Client(key = '')    # 키 삭제하기

@@ -4,6 +4,7 @@
     <list default="true" id="4a77e583-ec75-462e-a3d5-06302ce85e4d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/seoul_crime/crime_police.py" beforeDir="false" afterPath="$PROJECT_DIR$/seoul_crime/crime_police.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seoul_crime/data_reader.py" beforeDir="false" afterPath="$PROJECT_DIR$/seoul_crime/data_reader.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
