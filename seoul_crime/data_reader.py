@@ -17,11 +17,11 @@ class DataReader:
         self._context = context
 
     @property
-    def context(self)->str:
+    def fname(self)->str:
         return self._fname
 
     @context.setter
-    def context(self, fname):
+    def fname(self, fname):
         self._fname = fname
 
     def new_file(self)->str:
